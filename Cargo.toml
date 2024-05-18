@@ -1,0 +1,5 @@
+[package]
+name = "command_line_rust"
+edition = "2021"
+
+[dependencies]
